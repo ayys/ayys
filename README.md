@@ -5,6 +5,5 @@
 
 I write code for a living, and tinker with custom writing systems in my free time.
 
-- 🔭 I’m currently working at [@wasmerio](https://github.com/wasmerio)
 - 📫 How to reach me: `(rot13 "nllf@qhpx.pbz")`
 
